@@ -47,3 +47,4 @@ To integrate with a real API:
 ## Testing
 
 The project includes unit tests and UI tests. Run tests using Cmd+U in Xcode.
+# kamerdata_ios
